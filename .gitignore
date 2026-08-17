@@ -1,0 +1,4 @@
+*.pdf
+*.pdfpc
+/.direnv/
+result*
